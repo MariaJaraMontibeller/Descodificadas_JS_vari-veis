@@ -1,4 +1,4 @@
-# Descodificadas_JS_vari-veis
+# Descodificadas_JS_variáveis
 
 1. Desenvolva uma página HTML que, ao ser carregada, exibe um alerta informando que acabou de ser carregada.
 Exemplo: Página carregada com sucesso!
